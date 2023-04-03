@@ -1,0 +1,3105 @@
+{
+    "infos": [
+        {
+            "edl_etat_edl_lot_designation": "Appartement",
+            "edl_etat_etat": "edl_etat_etat_ferme",
+            "edl_etat_date_signature": "",
+            "edl_etat_edl_lot_adresse_ligne_1": "153 Route du Rosay - Le Parc de la Roseraie B\u00e2t B\n",
+            "edl_etat_edl_lot_adresse_ligne_2": "",
+            "edl_etat_edl_lot_ville": "SALLANCHES",
+            "edl_etat_edl_lot_code_postal": "74700",
+            "edl_etat_edl_lot_type_bien": "Appartement",
+            "edl_etat_edl_lot_nb_room": "2",
+            "edl_etat_edl_lot_lot_meuble": "",
+            "edl_etat_edl_lot_num_etage": "2\u00e8me",
+            "edl_etat_edl_lot_num_appart": "10",
+            "edl_etat_edl_lot_description_logement": "",
+            "edl_etat_edl_lot_code_acces_immeuble": "",
+            "edl_etat_edl_lot_surface_habitable": "",
+            "edl_etat_nom_representant": "",
+            "edl_etat_email_representant": "",
+            "edl_etat_phone_representant": ""
+        }
+    ],
+    "owners": [
+        {
+            "edl_etat_owner_last_name": "BOISRAME-BRETON"
+        }
+    ],
+    "occupants": [
+        {
+            "edl_etat_occupant_last_name": "Micheline Mme BETHOUART",
+            "edl_etat_occupant_address_1": "",
+            "edl_etat_occupant_address_2": "",
+            "edl_etat_occupant_zip_code": "",
+            "edl_etat_occupant_city": "",
+            "edl_etat_occupant_telephone": "",
+            "edl_etat_occupant_mobile": "",
+            "edl_etat_occupant_email": "",
+            "edl_etat_occupant_entry_date": "2 d\u00e9cembre 2016"
+        }
+    ],
+    "room": [
+        {
+            "edl_etat_element_intitule": "Balcon",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": []
+        },
+        {
+            "edl_etat_element_intitule": "Entr\u00e9e",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": []
+        },
+        {
+            "edl_etat_element_intitule": "Cave",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": []
+        },
+        {
+            "edl_etat_element_intitule": "Cave",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "Porte",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eau chaude : no 10 \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "510 M3 \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Electricite : no 10 \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "19553 Kwh \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Simple Tarif\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 8",
+                            "edl_photo_commentaire": "- 510 M3",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 9",
+                            "edl_photo_commentaire": "- 19553 Kwh",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "Hall",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 10, 11, 12",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "carrelage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "marron",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 13",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 14",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plinthes",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "en bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 15, 16, 17)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 15, 16, 17",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 18",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Seuil",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 19",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pis",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 21, 22)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 20",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 21, 22",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interphone",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "audio",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Sonnette (filaire):\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 23",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 24",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Radiateur",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "\u00e9lectrique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 25",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 26",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plafond",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pi",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " avec spots",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 27",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Point lumineux",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "applique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " spot",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Ampoule d\u00e9fectueuse \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 28, 29",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 30",
+                            "edl_photo_commentaire": " Ampoule d\u00e9fectueuse",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Porte",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 31, 32, 33)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 34, 35)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 31, 32, 33",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 34, 35",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interrupteurs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "prises",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "standard",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 36, 37",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Armoires",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "penderie",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " stratifi\u00e9es",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " 2 portes",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "panneau elec :\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "programmateur :\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 38, 39, 40",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 41, 42",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 43, 44",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 45",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "S\u00e9jour",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 46, 47, 48",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "carrelage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "marron",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 49, 50, 51)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 49, 50, 51",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plinthes",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "en bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Tache (photo 52, 53)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 54, 55, 56)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "El\u00e9ment endommag\u00e9(s) \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 52, 53",
+                            "edl_photo_commentaire": " Tache",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 54, 55, 56",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 57",
+                            "edl_photo_commentaire": " El\u00e9ment endommag\u00e9(s)",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pis",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou (photo 58, 59, 60), rebouch\u00e9s\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou (photo 61, 62), rebouch\u00e9s\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou (photo 63, 64, 65)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 67, 68, 69)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Fissure (photo 70, 71)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 58, 59, 60",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 61, 62",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 63, 64, 65",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 66",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 67, 68, 69",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 70, 71",
+                            "edl_photo_commentaire": " Fissure",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 72",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Radiateur",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nombre",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "2",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "\u00e9lectrique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 75, 76)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 73, 74",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 75, 76",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plafond",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pi",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 77",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Point lumineux",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nombre",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "1",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "plafonnier",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " fils \u00e9lectriques",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 78",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Fen\u00eatre",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "bois-m\u00e9tal double",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Poign\u00e9e endommag\u00e9e \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "D\u00e9perdition de chaleur (photo 81, 82), porte qui se ferme mal\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 79",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 80",
+                            "edl_photo_commentaire": " Poign\u00e9e endommag\u00e9e",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 81, 82",
+                            "edl_photo_commentaire": " D\u00e9perdition de chaleur",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Stores",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "volets bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Clou \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 83",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 84",
+                            "edl_photo_commentaire": " Clou",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interrupteurs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nombre",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "7",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "prises",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "standard",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "El\u00e9ment endommag\u00e9(s) \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 85",
+                            "edl_photo_commentaire": " El\u00e9ment endommag\u00e9(s)",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 86, 87, 88",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "Cuisine",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 89, 90",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "carrelage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "marron",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Tache \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 91",
+                            "edl_photo_commentaire": " Tache",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plinthes",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "en bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Se d\u00e9crochent \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 92",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 93",
+                            "edl_photo_commentaire": " Se d\u00e9crochent",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pis",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 94, 95, 96)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Fissure (photo 98, 99)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 94, 95, 96",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 97",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 98, 99",
+                            "edl_photo_commentaire": " Fissure",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Point lumineux",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "applique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " plafonnier",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 100, 101",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Evier",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "inox",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " simple",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 102",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Robinetterie",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "chrome",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " mitigeur",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 103",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Hotte aspirante",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "murale",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 104",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Meubles",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nombre",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "6",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "stratifi\u00e9s",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Poign\u00e9e endommag\u00e9e(s) \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Ferme(nt) mal \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Griffure \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Mauvais",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 105, 106, 107",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 108",
+                            "edl_photo_commentaire": " Poign\u00e9e endommag\u00e9e(s)",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 109",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 110",
+                            "edl_photo_commentaire": " Ferme(nt) mal",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 111",
+                            "edl_photo_commentaire": " Griffure",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 112, 113",
+                            "edl_photo_commentaire": " Mauvais \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Fen\u00eatre",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "bois-m\u00e9tal double",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 114",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interrupteurs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "prises",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "standard",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 115, 116, 117",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Ventilation",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "automatique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 118",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plafond",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pi",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "Stores",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "volets",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "WC",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 119",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pis",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Jaunis \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 120",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 121",
+                            "edl_photo_commentaire": " Jaunis",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Point lumineux",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "applique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 122",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "WC",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "Ventilation",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "automatique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 126",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Porte",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "stratifi\u00e9es",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Vis \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 127",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 128",
+                            "edl_photo_commentaire": " Vis",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interrupteurs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "prises",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "standard",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 129",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "carrelage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "marron",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "Plinthes",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "en bois",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "Plafond",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pi",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "Salle de bains",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 130, 131, 132",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "carrelage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 133",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pis",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " carrelage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Couleur",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "blanc",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Peinture trace \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "El\u00e9ment endommag\u00e9(s) \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou (photo 138, 139)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Jaunis \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 134",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 135",
+                            "edl_photo_commentaire": " Peinture trace",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 136",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 137",
+                            "edl_photo_commentaire": " El\u00e9ment endommag\u00e9(s)",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 138, 139",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 140",
+                            "edl_photo_commentaire": " Jaunis",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Radiateur",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "porte serviettes",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 141",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Point lumineux",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nombre",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "2",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "applique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Ampoule d\u00e9fectueuse \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 142",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 143",
+                            "edl_photo_commentaire": " Ampoule d\u00e9fectueuse",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Baignoire",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "droite",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Mauvais",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 144",
+                            "edl_photo_commentaire": " Mauvais \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 145",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Lavabo",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "simple",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " c\u00e9ramique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 146",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 147",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Robinetterie",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nombre",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "2",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "chrome",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " mitigeur",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Accessoires (1 porte-savons):\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Pharmacie \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 148, 149, 150",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 151",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "tablette",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "avec miroir",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 152, 153",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Meubles",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "stratifi\u00e9s",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " paille",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 154, 155, 156",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Ventilation",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "automatique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 157",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Porte",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "stratifi\u00e9es",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Vis \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 158",
+                            "edl_photo_commentaire": " Vis",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interrupteurs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "prises",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "standard",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "branchement machine \u00e0 laver :\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 159, 160",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 161",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plafond",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pi",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": []
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "Chambre",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 162, 163, 164",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "parquet bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Mauvais",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Mauvais",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 165",
+                            "edl_photo_commentaire": " Mauvais \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 166, 167, 168",
+                            "edl_photo_commentaire": " Mauvais \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "placard",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "photo 169",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " 170",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " 171",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Tache \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Griffure (photo 173, 174, 175)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 172",
+                            "edl_photo_commentaire": " Tache",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 173, 174, 175",
+                            "edl_photo_commentaire": " Griffure",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plinthes",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "en bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 176, 177, 178)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 176, 177, 178",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "gr\u00e9s\u00e9",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Tache \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Fissure (photo 180, 181)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou (photo 184, 185, 186)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 179",
+                            "edl_photo_commentaire": " Tache",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 180, 181",
+                            "edl_photo_commentaire": " Fissure",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 182",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 183",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 184, 185, 186",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 187",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Radiateur",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "\u00e9lectrique",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 189, 190, 191)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 188",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 189, 190, 191",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Plafond",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "gr\u00e9s\u00e9",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 192, 193, 194)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 192, 193, 194",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Point lumineux",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "plafonnier",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Pas ampoule \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 195",
+                            "edl_photo_commentaire": " Pas ampoule",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Armoires",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "penderie",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " stratifi\u00e9es",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": " 2 portes",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 199, 200)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 201, 202)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 203, 204, 205)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 207, 208, 209)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 196, 197, 198",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 199, 200",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 201, 202",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 203, 204, 205",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 206",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 207, 208, 209",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Fen\u00eatre",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "bois-m\u00e9tal double",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Griffure (photo 213, 214)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 210, 211, 212",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 213, 214",
+                            "edl_photo_commentaire": " Griffure",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Porte",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "stratifi\u00e9es",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 215, 216, 217)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Eclat \n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "impact (photo 218, 219, 220)\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque (photo 221, 222, 223)\n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 215, 216, 217",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 218, 219, 220",
+                            "edl_photo_commentaire": "- impact",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 221, 222, 223",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Stores",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "bois",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Marque \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 224",
+                            "edl_photo_commentaire": " Marque",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Interrupteurs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": []
+                },
+                {
+                    "edl_etat_element_intitule": "prises",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "standard",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "rideau :\n",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Bon",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 225, 226, 227",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 228",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        },
+                        {
+                            "edl_photo_intitule": "Photo 229",
+                            "edl_photo_commentaire": " Bon \u00e9tat",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "edl_etat_element_intitule": "Balcon",
+            "edl_etat_element_type": 1,
+            "edl_etat_element_valeur": "",
+            "edl_etat_element_observations": "",
+            "element": [
+                {
+                    "edl_etat_element_intitule": "vue g\u00e9n\u00e9rale",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 230, 231, 232",
+                            "edl_photo_commentaire": "vue g\u00e9n\u00e9rale",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Sol",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "brut",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Description",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "Trou \n",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 233",
+                            "edl_photo_commentaire": " Trou",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                },
+                {
+                    "edl_etat_element_intitule": "Murs",
+                    "edl_etat_element_type": 1,
+                    "edl_etat_element_valeur": "",
+                    "edl_etat_element_observations": "",
+                    "elements": [
+                        {
+                            "edl_etat_element_intitule": "Nature",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "cr\u00e9pis",
+                            "edl_etat_element_observations": ""
+                        },
+                        {
+                            "edl_etat_element_intitule": "Etat",
+                            "edl_etat_element_type": 2,
+                            "edl_etat_element_valeur": "d'usage",
+                            "edl_etat_element_observations": ""
+                        }
+                    ],
+                    "photos": [
+                        {
+                            "edl_photo_intitule": "Photo 234, 235, 236",
+                            "edl_photo_commentaire": " Etat d'usage",
+                            "edl_photo_data_uri": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

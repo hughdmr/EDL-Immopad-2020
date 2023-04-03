@@ -1,0 +1,3643 @@
+listRoomNomenclature : 
+Chambre
+Dressing
+Buanderie
+Hall
+Local technique
+Bureau
+Accueil
+Garage
+Chambre porte fenêtre
+Séjour
+Entrée
+Mezzanine
+WC
+Cuisine
+Nettoyage + divers
+Chambre avec dressing
+Extérieur-jardin
+Escalier
+Balcon
+Cave
+Cage d'escalier
+Salle de bains
+Salle à manger
+
+listElementNomenclature : 
+Prises
+Lavabo
+Plinthes
+Four
+chaudière gaz
+wc
+tablette
+Cuisinière
+Radiateur
+Evier
+Fenêtre
+Stores
+Rebord de fenêtre
+Porte
+Baignoire
+Lampes
+Nettoyage général
+Hotte aspirante
+aspirateur
+Robinetterie
+Meubles
+Ventilation
+Table de berger
+congélateur
+Frigo
+Interrupteurs
+Interphone
+crédence
+frigo américain
+Douche
+robinet extérieur
+vue générale
+Point lumineux
+Balustrade
+plaques induction
+Velux
+Murs
+Dallage
+Plafond
+Détecteur de Fumée (DAAF)
+Sol
+Ancienne cheminee
+éléments de jardin
+Seuil
+Sèche-linge
+Armoires
+Plan de travail
+Machine à laver
+prises
+Lave-vaisselle
+façades
+placard
+
+listNatureNomenclature : 
+verre
+en bois
+bois
+crépi
+métallique
+crépis
+parquet bois
+douille
+dalles béton
+chêne massif
+inox
+béton
+peinture
+plâtre
+chrome
+lamelles PVC
+aluminium
+bois double
+PVC double
+bois-métal double
+carrelage
+
+listDescriptionNomenclature : 
+plaques vitrocéramiques (bosch, couleur : noir):
+
+Fissure (photo 131, 132)
+
+Tache (photo 196, 197)
+
+Fissure (photo 7, 8)
+
+Cheminée 
+
+Difficulté d écoulement
+
+Neuf (photo 26, 27)
+
+seche serviettes
+Marque (photo 57, 58, 59)
+
+Trou (photo 187, 188, 189)
+
+miroir :
+
+Ne fonctionne(nt) plus 
+
+rideau douche  
+
+Fissure (photo 10, 11)
+
+Tache (photo 44, 45)
+
+programmateur :
+
+Fissure (photo 67, 68, 69)
+
+impact (photo 53, 54)
+
+1x Placard :
+
+Tache (photo 16, 17, 18)
+
+Marque (photo 12, 13)
+
+Marque (photo 49, 50)
+
+Tache (photo 96, 97, 98)
+
+Trace de calcaire (photo 90, 91)
+
+d'angle
+Manque (photo 80, 81)
+
+ douille
+Trou (photo 86, 87, 88)
+
+Trace de calcaire 
+
+Television (Philips):
+
+Marque (photo 112, 113), frotte par terre
+
+Marque (photo 112, 113)
+
+Marque (photo 16, 17)
+
+porte serviette :
+
+Ne fonctionne pas 
+
+Tache (photo 51, 52)
+
+Desserte :
+
+Tache (photo 82, 83, 84)
+
+Tache (photo 65, 66, 67)
+
+Neuve (photo 45, 46), avec notice
+
+Tache, de peinture blanche
+
+Accessoire inclus : avec interrupteur mural
+
+ Proline
+Marque (photo 166, 167)
+
+impact (photo 10, 11, 12)
+
+Tache (photo 130, 131, 132)
+
+Marque (photo 178, 179, 180)
+
+Miroir 
+
+Marque (photo 33, 34, 35)
+
+émaillée
+Trace d'humidité , velux
+
+Tache (photo 79, 80, 81)
+
+Très usagée (photo 44, 45)
+
+volets :
+
+Cumulus (classique ):
+
+Trou (photo 62, 63)
+
+type velux
+Marque (photo 110, 111)
+
+Eau
+
+Accessoire inclus : , 7 crochets
+
+Trou (photo 58, 59, 60), rebouchés
+
+attente machine à laver  
+
+ spot
+Fissure (photo 180, 181)
+
+Trou (photo 20, 21, 22)
+
+1x Meuble vasque (couleur : blanc)
+
+Marque , quelques rayures
+
+impact (photo 108, 109)
+
+Elément modifié(s) 
+
+Fissure (photo 10, 11, 12)
+
+boismétal double
+Accessoire inclus : une clé pour chaque porte
+
+Accessoire inclus : (photo 18, 19, 20), 3 crochets
+
+ avec filtre
+Tache (photo 102, 103)
+
+ Hotpoint
+Tache (photo 32, 33)
+
+Trou (photo 78, 79)
+
+Accessoire inclus : , rideaux
+
+tondeuse 
+
+Accessoire inclus : 
+
+Neuf
+
+ applique miroir
+Trou (photo 38, 39, 40)
+
+Trace vers fenetre
+
+Marque (photo 119, 120)
+
+branchement machine à laver :
+
+ lamelles PVC
+Marque (photo 71, 72)
+
+neuve (photo 16, 17)
+
+plafonnier
+Trou (photo 166, 167)
+
+Réglage à effectuer, frotte par terre
+
+Accessoire inclus : avec interrupteurs muraux (2)
+
+Trou (photo 39, 40, 41)
+
+Crochet, mur derrière la porte d’entrée
+
+Microrayures 
+
+Tringle
+
+Trou (photo 17, 18, 19), vis au mur
+
+Joint à refaire (photo 78, 79, 80)
+
+Vétuste 
+
+Accessoire inclus : , oeil abîmé,rayé.
+
+Accessoire inclus : , tringles rideaux
+
+Marque (photo 38, 39, 40)
+
+Accessoire inclus : bouteille de gaz + détendeur
+
+Marque (photo 221, 222, 223)
+
+Risques naturels (ERNT)
+
+Trou (photo 6, 7)
+
+faience 
+Elément endommagé(s) , occultant velux gauche endommagé
+
+1x portillon (bois, verrou, couleur : marron):
+
+Accessoire inclus : avec notice
+
+Neufs (photo 200, 201, 202)
+
+Tache (photo 103, 104, 105)
+
+impact (photo 55, 56, 57)
+
+Trou (photo 144, 145)
+
+Trou (photo 24, 25)
+
+Marque (photo 33, 34), reflets bleu sur toute la montée d’escaliers
+
+Avec bloque porte
+
+lambri pvc
+Très usagée (photo 37, 38)
+
+ micro-ondes
+carrelage + peinture
+Eclat 
+
+Peinture à refaire (photo 67, 68)
+
+Trou (photo 130, 131, 132)
+
+Volet roulant 
+
+bar (bois):
+
+Tache (photo 92, 93, 94)
+
+Bouge , cogne contre la fenetre
+
+8x Accessoires (rideaux, panier à bois, accessoires cheminée)  
+
+Marque (photo 52, 53, 54)
+
+Trou (photo 110, 111)
+
+Fagor
+Boîte aux lettres (murale)  
+
+Frotte au sol
+
+Neuve (photo 53, 54)
+
+Tache (photo 74, 75, 76)
+
+ d'angle
+Marque (photo 126, 127, 128)
+
+bois-métal simple
+ vanne
+ spots
+Marque (photo 80, 81)
+
+Tache (photo 57, 58, 59)
+
+Tache (photo 39, 40)
+
+Ne Fonctionne pas , pas encore branché
+
+Clous (photo 67, 68, 69)
+
+Marque (photo 199, 200)
+
+Elément endommagé(s) (photo 68, 69)
+
+Trou (photo 53, 54, 55)
+
+ crépi
+ tube néon
+Peinture neuve 
+
+Accessoires (miroir) 
+
+impact (photo 17, 18)
+
+Marque (photo 40, 41, 42)
+
+26 Rue des Allobroges - Le Charles Albert, 74700 Sallanches, Appartement 3 pces meublé(e), 3ème, SAA268
+
+jdpernin@cimm-immobilier.fr
+
+Neuve (photo 43, 44)
+
+Griffure (photo 154, 155)
+
+Elément endommagé(s) (photo 116, 117)
+
+Griffure , 4 crochets en haut
+
+Fissure (photo 33, 34)
+
+Trou, plusieurs trous aux angles
+
+Joint à refaire (photo 38, 39, 40)
+
+impact (photo 38, 39)
+
+19553 Kwh 
+
+spots intégrés
+impact (photo 47, 48)
+
+Système de chauffage testés
+
+Marque (photo 75, 76, 77)
+
+Marque (photo 27, 28)
+
+Neuf (photo 24, 25)
+
+Peinture à refaire , salissures,traînée noires
+
+ occultant velux
+etagères
+Boitier electrique vide :
+
+Marque (photo 15, 16, 17)
+
+Vis 
+
+Trou (photo 55, 56)
+
+en fonte
+Marque (photo 57, 58)
+
+510 M3 
+
+Accessoire inclus : , télécommande
+
+laqués
+ boutons poussoirs
+ led
+impact (photo 25, 26)
+
+Charnière défectueuse(s) 
+
+Ampoule défectueuse (photo 12, 13)
+
+Tache (photo 104, 105, 106)
+
+Pas ampoule 
+
+Marque (photo 74, 75)
+
+Accessoire inclus 
+
+impact (photo 193, 194, 195)
+
+volets (bois, couleur : marron)  
+
+Marque (photo 23, 24, 25)
+
+Elément endommagé(s) , papier qui se décolle
+
+Pommeau entartré 
+
+Tache (photo 116, 117, 118)
+
+1x rembarde :
+
+Trou
+
+Tache (photo 157, 158, 159)
+
+impact (photo 103, 104)
+
+020405 Kwh 
+
+Neuf (photo 23, 24)
+
+Tache (photo 25, 26, 27)
+
+Tache , multiples tâches difficiles de savoir celles qui vont partir au nettoyage !
+
+Elément endommagé(s) , ferme mal
+
+neuves 
+
+led
+Elément endommagé(s) (photo 51, 52)
+
+lambris +crepi
+Clou (photo 47, 48)
+
+Difficile à ouvrir, la double fenêtre
+
+Tache (photo 47, 48, 49)
+
+Accessoire inclus : (photo 49, 50), porte manteau
+
+Marque (photo 107, 108, 109)
+
+Pierre 
+bruts
+bois et verre
+Marque (photo 14, 15)
+
+Neuve (photo 6, 7)
+
+Eau :
+
+Peinture neuve (photo 77, 78)
+
+Avec clé (photo 97, 98), ferme correctement
+
+Griffure (photo 10, 11)
+
+Eau chaude : no 10 
+
+Tache (photo 17, 18, 19)
+
+Non testés, pas d’électricité une télécommande non testée
+
+État usage 
+
+Marque (photo 82, 83)
+
+Très usagée 
+
+Marque (photo 107, 108)
+
+Placard :
+
+Trou (photo 62, 63), rebouchés
+
+Marque (photo 16, 17, 18)
+
+Marque (photo 206, 207)
+
+ triples
+Marque (photo 48, 49, 50)
+
+Tache (photo 184, 185)
+
+dalles polystyrènes
+Marque (photo 36, 37, 38)
+
+Fissure (photo 32, 33)
+
+Peinture à refaire
+
+Tache (photo 60, 61)
+
+Elément endommagé(s), ne fonctionne pas
+
+Ne fonctionne plus, pas video
+
+0069
+
+1x sauna (bois):
+
+Accessoire inclus : , interrupteur
+
+Joint , fuite
+
+Fuite d'eau 
+
+Moyen (photo 26, 27)
+
+arborisation (gazon, gazon + arbustes, clôturée) 
+
+Chaudiere (Autre):
+
+photo 26
+Support mal fixé 
+
+Marque (photo 13, 14, 15)
+
+Marque (photo 49, 50, 51)
+
+impact (photo 113, 114)
+
+Accessoire inclus : télécommande murale
+
+Avec clé (photo 78, 79)
+
+Tache , interrupteur peint avec le mur
+
+impact (photo 29, 30)
+
+impact (photo 16, 17, 18)
+
+tapisserie
+impact (photo 15, 16)
+
+Tache (photo 61, 62)
+
+Trou (photo 67, 68)
+
+ électrique
+Store-toile (motorisé):
+
+Déperdition de chaleur (photo 85, 86), porte qui se ferme mal
+
+Tache (photo 38, 39, 40)
+
+Tache (photo 126, 127, 128)
+
+Le détail de l’inventaire mobilier est relevé dans un document séparé
+
+Traces 
+
+tringles :
+
+tableau electrique :
+
+ lambris bois
+panneau elec  
+
+Accessoire inclus : , crochets
+
+Notice a l'intérieur 
+
+impact (photo 189, 190, 191)
+
+Griffure (photo 36, 37, 38), griffures au niveau de l emplacement du frigo
+
+Accessoire inclus : clé
+
+Trou (photo 4, 5), a gauche baie vitrée
+
+Très usagés 
+
+impact (photo 208, 209, 210)
+
+Tache (photo 310, 311, 312)
+
+Accessoire inclus : avec 6 interrupteurs muraux
+
+ double
+Pelouse 
+
+Tache (photo 81, 82, 83)
+
+Elément endommagé(s) (photo 59, 60)
+
+Trou (photo 106, 107, 108)
+
+photo 171
+Marque (photo 40, 41)
+
+Trou (photo 11, 12)
+
+Carreau cassé 
+
+Ampoule défectueuse, manque 1 ampoule
+
+Energétique (DPE)
+
+neuve (photo 21, 22)
+
+Marque (photo 21, 22, 23)
+
+ parquet stratifié
+impact (photo 154, 155, 156)
+
+Marque (photo 69, 70)
+
+Fissure (photo 44, 45)
+
+miroir lumineux
+Joint à refaire , carreaux bougent
+
+Trou (photo 15, 16, 17), et 2 trous à côté du tableau électrique
+
+Brûlure (photo 73, 74)
+
+Tache (photo 36, 37)
+
+PVC
+Marque (photo 89, 90, 91)
+
+3x chaise (stratifiées):
+
+neuves (photo 28, 29, 30)
+
+Marque (photo 43, 44, 45)
+
+Tache (photo 118, 119, 120)
+
+ combiné
+Trou (photo 17, 18)
+
+ standard
+Marque (photo 127, 128, 129)
+
+Néon mural vibre
+
+Fissure (photo 74, 75)
+
+Réglage à effectuer
+
+Trou (photo 118, 119)
+
+porte-serviettes chauffant :
+
+Griffure (photo 44, 45)
+
+Tache (photo 25, 26)
+
+Marque (photo 46, 47)
+
+Trace de calcaire
+
+Tache (photo 21, 22)
+
+ aluminuim
+Tache (photo 95, 96, 97)
+
+Fissure (photo 91, 92)
+
+Marque (photo 78, 79)
+
+multifonction
+C7738 
+
+Elément endommagé(s) (photo 15, 16, 17)
+
+laiton
+Trou (photo 43, 44, 45)
+
+Tache (photo 157, 158)
+
+ motorisées
+gaz
+Fermeture difficile 
+
+Elément endommagé(s) , éclairage désolidarisé du mur
+
+Griffure (photo 14, 15)
+
+volets bois
+Accessoires (porte serviette):
+
+Trou (photo 88, 89), nombreux trous et salissures
+
+ bleu et banc
+1 porte
+Tache (photo 128, 129)
+
+Griffure (photo 40, 41, 42), griffures de chat a poncer et revernir
+
+Marque (photo 290, 291, 292)
+
+range chaussures 
+Marque (photo 168, 169, 170)
+
+Trou (photo 13, 14)
+
+impact (photo 196, 197, 198)
+
+Joint à refaire (photo 57, 58)
+
+Marque (photo 156, 157, 158)
+
+Accessoire inclus : , 1 crochet
+
+Marque (photo 86, 87)
+
+Tache (photo 24, 25)
+
+Accessoire inclus : tringles rideaux
+
+0046
+
+ Brandt
+Tache (photo 19, 20, 21)
+
+Joint , pas de joint contre le mur
+
+Wc :
+
+aluminuim
+Marque , multiples marques
+
+Marque (photo 334, 335)
+
+neuves (photo 64, 65, 66)
+
+Amiante
+
+Elément endommagé(s), store droit bloque à mi hauteur
+
+Accessoire inclus : avec un interrupteur mural
+
+Neuf (photo 25, 26)
+
+Accessoire inclus : , bloc porte
+
+Elément endommagé(s) (photo 87, 88, 89), éclairages désolidarisés du mur
+
+Bloc porte, à revisser
+
+Marque (photo 63, 64)
+
+Electricité (HP) :
+
+collective
+Très usagée (photo 25, 26)
+
+arborisation (gazon + arbustes)  
+
+Marque (photo 156, 157)
+
+Electricité (HC)
+
+Ampoule défectueuse , 3
+
+Tache, de joint
+
+Moisissure (photo 100, 101)
+
+arborisation (gazon):
+
+ indesit
+Joint à refaire (photo 143, 144), noircis et jaunis
+
+Poignée endommagée 
+
+Marque (photo 211, 212, 213)
+
+Marque (photo 136, 137), porte dressing
+
+Flexible endommagé 
+
+Joint à refaire (photo 62, 63)
+
+Neuve (photo 4, 5)
+
+ laqués
+Sonnette (filaire):
+
+applique
+Elément défectueux 
+
+linoléum
+Trou (photo 97, 98, 99)
+
+ volet roulant manuel bois
+impact (photo 219, 220, 221)
+
+Avec clé (photo 96, 97), ferme correctement
+
+Fissure (photo 58, 59)
+
+Accessoire inclus : , store occultant
+
+volets battants manuels
+Manque accessoire (photo 206, 207), poignée sans plastique
+
+Avec clé
+
+Revêtement neuf 
+
+Marque (photo 196, 197, 198)
+
+Robinet baignoire 
+
+En panne , inter home électronique service
+
+Tache (photo 128, 129, 130)
+
+ 5 portes
+Très usagé 
+
+ linoléum
+escaliers :
+
+Autre (photo 307, 308, 309)
+
+Accessoire inclus : manivelle
+
+Détérioré 
+
+ stratifiées
+Avec clé , ne ferme pas
+
+Accessoire inclus : , crochet
+
+Marque, de la porte d’entrée
+
+ métallique
+Marque (photo 240, 241)
+
+ miroir lumineux
+s
+Manivelle endommagée(s) , manque le bout
+
+Elément endommagé(s) , la porte fenêtre de gauche ne s'ouvre plus
+
+ 175
+placard intégré
+Tache (photo 86, 87)
+
+Marque (photo 87, 88, 89), dressing
+
+Moisissure (photo 27, 28), joints tachés
+
+ 4 portes
+mural
+ motorisés
+neuves (photo 66, 67, 68)
+
+Elément endommagé(s) (photo 141, 142)
+
+Tache (photo 119, 120)
+
+Elément endommagé(s) (photo 173, 174)
+
+Simple Tarif
+
+Marque (photo 84, 85, 86)
+
+mélaminé
+Marque (photo 22, 23)
+
+ avec minuterie
+Accessoire inclus : tringle et deux voilages blancs
+
+Verrou 
+
+Déperdition de chaleur (photo 81, 82), porte qui se ferme mal
+
+battantes
+Joint à refaire (photo 121, 122)
+
+1x miroir :
+
+carrelage 
+Marque (photo 65, 66)
+
+Peinture trace 
+
+etageres (couleur : marron)
+
+Elément endommagé(s) (photo 30, 31), la porte fenêtre de gauche ne s'ouvre plus
+
+Accessoire inclus : , clé et un bloc porte
+
+dalles isolantes
+ 176
+Neuf (photo 8, 9, 10)
+
+Marque (photo 266, 267, 268)
+
+pvc
+Accessoire inclus : (photo 13, 14), miroir
+
+Poignée endommagée(s) 
+
+Manque baguette 
+
+Tache (photo 272, 273, 274)
+
+Déchiré (photo 260, 261, 262)
+
+halogène
+Elément endommagé(s) , porte voilée
+
+Bosch
+Placards :
+
+Ferme(nt) mal
+
+Marque , intérieur des tiroirs
+
+Chauffe-eau (électrique, individuel, cumulus)  
+
+Tache (photo 130, 131)
+
+miroir (retro éclairé):
+
+Pharmacie 
+
+Fissure (photo 34, 35)
+
+C 0681
+
+Très usagée
+
+ collective
+Marque (photo 255, 256, 257), dressing
+
+Marque (photo 101, 102)
+
+Trou (photo 86, 87)
+
+Tache (photo 58, 59, 60)
+
+Contre-marches (bois):
+
+Tache (photo 135, 136)
+
+Tache (photo 105, 106)
+
+Marque (photo 87, 88)
+
+Griffure (photo 217, 218)
+
+Trou (photo 75, 76)
+
+Nettoyage incomplet (photo 79, 80)
+
+Clous (photo 26, 27)
+
+Trou (photo 44, 45)
+
+Pas electricite 
+
+Marque (photo 35, 36)
+
+Marque (photo 33, 34)
+
+Autre (photo 147, 148)
+
+ vasque
+Fissure (photo 41, 42)
+
+Joint neuf(s), faits par locataires
+
+Tache (photo 42, 43, 44)
+
+Peinture à refaire, salissures, taches noires
+
+Sonnette (sans fil):
+
+Marque , poignée
+
+ penderie
+neuves (photo 31, 32)
+
+Griffure (photo 43, 44)
+
+02206
+
+Electricité (HC) :
+
+Trou (photo 40, 41), rebouchés
+
+plaque vitrocéramique (far, couleur : noir):
+
+Poignée endommagée, et fenêtre difficile à fermer
+
+Fissure (photo 70, 71)
+
+dans le plan de travail
+1x Sonnette (filaire) 
+
+impact (photo 227, 228, 229)
+
+Tache (photo 48, 49, 50)
+
+Joints 
+
+Neuve (photo 70, 71)
+
+Marque (photo 218, 219)
+
+Marque (photo 14, 15, 16)
+
+Accessoires (miroir):
+
+Pas d'ampoule 
+
+Très usagée , fissure. ne tiens pas
+
+Tache (photo 80, 81, 82)
+
+Marque (photo 46, 47, 48)
+
+privatif
+impact 
+
+Tache (photo 174, 175, 176)
+
+cumulus :
+
+Marque (photo 230, 231, 232)
+
+Relevé contre mur (photo 23, 24)
+
+standard
+spot
+Hors d usage , cheminée hors d usage --> NE PAS UTILISER
+
+Brûlure (photo 43, 44)
+
+ vénitiens
+Marque (photo 75, 76)
+
+Marque (photo 118, 119)
+
+Manque accessoire , taquets
+
+Marque (photo 336, 337, 338)
+
+Calcaire cumulus 
+
+Tache (photo 143, 144, 145)
+
+Trou (photo 34, 35, 36)
+
+Filtre sale 
+
+Trou (photo 64, 65, 66)
+
+impact (photo 61, 62)
+
+Griffure (photo 49, 50)
+
+Nettoyage incomplet 
+
+plinthes :
+
+Elément endommagé(s), fil coupe
+
+ carrelage
+ miroir
+métal + Verre
+ miroire
+Parterre
+
+Tache (photo 6, 7, 8)
+
+Trou (photo 22, 23)
+
+vasque
+Neufs (photo 33, 34, 35)
+
+Moisissure (photo 10, 11)
+
+Tache (photo 4, 5)
+
+ bois massif
+impact (photo 32, 33)
+
+stratifiées
+Fissure (photo 41, 42, 43)
+
+impact (photo 61, 62, 63)
+
+Accessoire inclus : , télécommande volets roulants
+
+Marque (photo 13, 14)
+
+Trou (photo 63, 64, 65)
+
+Tache (photo 20, 21)
+
+Serrure endommagée, ne ferme pas à clé
+
+neuve (photo 13, 14)
+
+Accessoire inclus : avec 2 clés et 2 lampes
+
+Détendeur neuf
+
+0121
+
+ cabine verre
+Fissure (photo 49, 50)
+
+Volets (photo 187, 188)
+
+Pas installée 
+
+Elément endommagé(s) (photo 18, 19)
+
+ pour la lumière extérieure
+C 5179
+
+Griffure (photo 45, 46, 47)
+
+Tache (photo 18, 19, 20)
+
+Marque (photo 66, 67)
+
+ trace du joint
+ Zanussi
+Marque (photo 79, 80, 81)
+
+sèche serviettes
+Condamnée 
+
+Ferme(nt) mal, ferme avec le verrou
+
+Manque Lino 
+
+Manque accessoire , 2 ampoules
+
+Tache (photo 108, 109, 110)
+
+ porte serviette bois
+Trou (photo 22, 23, 24)
+
+Neuve (photo 67, 68)
+
+C 3575
+
+bois simple
+Griffure (photo 8, 9)
+
+Tache (photo 54, 55)
+
+Griffure (photo 24, 25)
+
+ Laden
+machine lavé :
+
+Marque (photo 252, 253, 254)
+
+scholtes
+Tache, gouttes de peinture
+
+Neuf (photo 43, 44)
+
+tablettes bois
+Bouge un peu 
+
+Griffure (photo 22, 23, 24)
+
+Accessoire inclus : verrou intérieur
+
+Système de chauffage non testés
+
+1x plaque vitrocéramique (couleur : noir)
+
+Trou (photo 115, 116)
+
+ verre
+Marque (photo 12, 13, 14)
+
+ lucarne
+Neuves (photo 47, 48)
+
+Griffure (photo 24, 25, 26)
+
+Tache (photo 101, 102, 103)
+
+Manque clé
+
+ plexiglas
+Fissure (photo 72, 73)
+
+Tache
+
+Tache (photo 10, 11)
+
+Marque (photo 109, 110), 6 crochets
+
+Tache (photo 36, 37, 38)
+
+1x portillon (couleur : bois)
+
+Tache (photo 181, 182)
+
+brut
+Pas testés , car pas d'électricité
+
+ ocultant velux
+Marque (photo 93, 94, 95)
+
+Tache, en bas des murs
+
+Trou (photo 38, 39)
+
+murale
+Marque , dressing
+
+Tache (photo 106, 107, 108)
+
+Trou , et dans les portes du meuble sous évier
+
+Neuves (photo 39, 40), les portes seront livrées avant fin Mai
+
+bandes verticales
+Joint à refaire (photo 11, 12)
+
+ 1 derouleur papier wc
+Neufs (photo 30, 31)
+
+Tache (photo 57, 58)
+
+miroir avec point lumineu :
+
+Accessoire inclus : notice utilisation
+
+Marque (photo 71, 72), fenêtre rayées sur porte fenêtre
+
+Store-toile (manuel) 
+
+Marque (photo 138, 139)
+
+photo 16
+ simple
+mixte
+Marque (photo 54, 55)
+
+Trou (photo 37, 38)
+
+photo 153
+Neuve (photo 183, 184)
+
+Tache (photo 83, 84, 85)
+
+Trou (photo 46, 47, 48), rebouchés
+
+grès
+ plafonnier
+Moyen (photo 25, 26)
+
+vidéo
+Marque (photo 83, 84, 85)
+
+Tache, de saleté
+
+lucarne
+Marque (photo 48, 49)
+
+Marque (photo 144, 145, 146)
+
+Marque (photo 176, 177, 178)
+
+Marque (photo 112, 113, 114)
+
+console :
+
+Marque (photo 29, 30)
+
+portillon :
+
+ volets roulants
+Marque (photo 51, 52, 53)
+
+ 172
+Mis aux normes 
+
+murales
+antenne :
+
+Griffure (photo 116, 117)
+
+Griffure (photo 353, 354, 355)
+
+Tache (photo 13, 14, 15)
+
+Marque (photo 96, 97)
+
+Accessoires (crochets ):
+
+Trou (photo 19, 20)
+
+2 portes
+Serrure endommagée, difficulté à fermer la porte d entrée de l Interieur
+
+aeration :
+
+ émaillé
+ventilation :
+
+Marque (photo 43, 44)
+
+Marque (photo 45, 46)
+
+impact (photo 135, 136, 137)
+
+photo 53
+céramique
+Elément endommagé(s) , manque la grille
+
+Ampoule défectueuse (photo 28, 29, 30)
+
+Marque (photo 163, 164)
+
+Trou (photo 175, 176)
+
+Tache (photo 23, 24, 25)
+
+Peinture à refaire, traces grises
+
+impact (photo 42, 43, 44), fenêtre 1 côté entrée
+
+Griffure (photo 72, 73)
+
+Griffure 
+
+Marque , jeu en haut de la grande porte fenêtre
+
+28,02
+
+Griffure (photo 285, 286)
+
+Trou (photo 98, 99, 100)
+
+ battantes
+1x plaque vitrocéramique (schott, couleur : noir):
+
+Trou (photo 56, 57)
+
+Robinet baignoire, neuf, flexible et pomme de douche neufs
+
+Trou (photo 193, 194)
+
+ halogène
+Fissure (photo 100, 101)
+
+ chrome
+Joint extérieur effrité 
+
+Porte auto des garages
+impact (photo 28, 29, 30)
+
+43 Route de la Provence - Chalet Beauregard, 74700 Sallanches, Appartement 4 pces meublé(e), 3ème, CG1914
+
+électrique
+Accessoires (rideaux)  
+
+Très usagées, nez de marche usés
+
+Trou (photo 37, 38, 39)
+
+Tache, dessous l’interrupteur
+
+Tache (photo 371, 372)
+
+double
+Tache (photo 28, 29, 30)
+
+impact (photo 19, 20)
+
+ tringle
+Pommeau entartré
+
+neuves (photo 97, 98, 99)
+
+impact (photo 67, 68)
+
+Très mauvais état 
+
+ 173
+neuves (photo 51, 52)
+
+neuve
+
+Lave-linge :
+
+impact (photo 62, 63)
+
+Marque (photo 130, 131, 132)
+
+Fissure (photo 18, 19, 20)
+
+goulottes
+impact (photo 11, 12)
+
+ clé
+ bois double
+ acrylique
+Tache (photo 11, 12)
+
+Ampoule défectueuse, 1ampoule défectueuse au dessus baignoire
+
+Dures à fermer
+
+Trou (photo 10, 11)
+
+impact (photo 205, 206)
+
+Tache (photo 9, 10, 11)
+
+Marque (photo 94, 95, 96)
+
+Tache (photo 51, 52, 53)
+
+Avec clé 
+
+Elément défectueux, prise près du lavabo ne fonctionne pas
+
+Fissure (photo 59, 60)
+
+à gaz
+Marque (photo 91, 92)
+
+Joint à refaire (photo 59, 60)
+
+impact (photo 58, 59)
+
+Marque (photo 30, 31)
+
+neuves (photo 54, 55)
+
+Neuf (photo 48, 49)
+
+Tache (photo 90, 91)
+
+ peinture
+boîtier électrique (couleur : gris)
+
+Marque , sur le rebord
+
+impact (photo 34, 35)
+
+Accessoire inclus : , clef
+
+Trou (photo 40, 41)
+
+Trou (photo 35, 36), rebouchés
+
+Elément endommagé(s) , miroir brisé
+
+neuves (photo 48, 49)
+
+Griffure (photo 269, 270, 271)
+
+Tache, peinture refaite _ traces de peinture
+
+1x étagère (bois)  
+
+C 1964
+
+ papier peint
+Difficile à fermer 
+
+Elément endommagé(s), store intérieur de la porte fenêtre endommagé ne fonctionne plus
+
+Marque (photo 42, 43)
+
+Clous, 8
+
+balayette wc
+Sonnette (filaire) 
+
+automatique
+Graine électrique 
+
+Joint à refaire
+
+volet bois
+Nettoyage incomplet (photo 64, 65)
+
+ faience
+Accessoire inclus : 4 crochets
+
+Parterre 
+
+Tache (photo 21, 22, 23)
+
+neuves (photo 69, 70, 71)
+
+Marque (photo 203, 204)
+
+poutre :
+
+Clous (photo 111, 112, 113)
+
+Nettoyage incomplet (photo 31, 32, 33)
+
+Marbre
+micro-ondes :
+
+Marque (photo 141, 142)
+
+Ne fonctionne(nt) plus
+
+Trou (photo 69, 70)
+
+grésé
+Réglage à effectuer, les 2 fenêtres côté jardin ferment difficilement
+
+neuves (photo 49, 50)
+
+galets
+Marque (photo 62, 63)
+
+ Siemens
+Charnière défectueuse(s) (photo 14, 15), l ouverture oscille-battante ne fonctionne plus
+
+Trou (photo 128, 129)
+
+2x Store-toile (manuel):
+
+Trace de calcaire (photo 386, 387)
+
+Fissure
+
+Fissure (photo 134, 135, 136)
+
+Neuf (photo 49, 50, 51)
+
+Ne fonctionne(nt) plus, plus automatique
+
+Tache (photo 11, 12, 13)
+
+Griffure (photo 173, 174, 175)
+
+Griffure (photo 54, 55, 56)
+
+Fissure (photo 20, 21)
+
+Tache (photo 86, 87, 88)
+
+Dégradé , dégradé
+
+impact (photo 224, 225, 226)
+
+Baguette non fixée , le long de la douche
+
+Joint à refaire (photo 69, 70)
+
+SAA360
+
+ crépis
+impact (photo 339, 340)
+
+Tache (photo 54, 55, 56)
+
+Différence peinture (photo 26, 27)
+
+1x Accessoires (miroir) 
+
+Trou (photo 138, 139)
+
+Défaut fermeture 
+
+Miroir cassé 
+
+Ne plaque pas 
+
+Tache (photo 185, 186)
+
+Accessoire inclus : , 1 clou
+
+Accessoire inclus : 1 clou
+
+Tache (photo 12, 13)
+
+ essentiel
+Non testés , pas électricité
+
+Neuf (photo 46, 47, 48)
+
+ classique
+Marque (photo 42, 43, 44)
+
+neuves (photo 95, 96, 97)
+
+Tache (photo 92, 93)
+
+impact (photo 111, 112)
+
+Tache (photo 29, 30)
+
+impact (photo 25, 26), extérieur
+
+Fissure (photo 350, 351, 352)
+
+alu
+pierres reconstituées
+cuve fioul :
+
+Tache (photo 15, 16, 17)
+
+Marque (photo 37, 38)
+
+Clou 
+
+impact (photo 54, 55, 56)
+
+ coulissantes
+Parterre (photo 72, 73)
+
+Trace d'humidité (photo 68, 69)
+
+porte extérieure  
+
+Marque (photo 79, 80)
+
+Fissure (photo 118, 119)
+
+rembarde (bois):
+
+Griffure (photo 15, 16)
+
+Fissure (photo 79, 80)
+
+Tache (photo 154, 155, 156)
+
+Tache (photo 67, 68)
+
+Difficile à fermer
+
+ gris et rose
+pompe à chaleur :
+
+Marque (photo 10, 11, 12)
+
+lambris bois
+impact (photo 20, 21, 22)
+
+impact (photo 37, 38)
+
+ bois-métal simple
+Verrou , difficile à tourner
+
+ verrou coulissant à l'intérieur
+Tache (photo 5, 6, 7)
+
+Mal entretenu(e) (photo 82, 83)
+
+Tache (photo 50, 51)
+
+Elément endommagé(s) (photo 145, 146), vanne cassée + carreaux carrelage se décrochant
+
+DAAF
+Marque (photo 203, 204, 205)
+
+3x Pharmacie 
+
+Accessoire inclus : avec 2 interrupteurs muraux
+
+Tache (photo 101, 102)
+
+Très mauvais état (photo 13, 14), tâches de peinture
+
+Tache (photo 7, 8)
+
+impact (photo 382, 383)
+
+Griffure (photo 17, 18)
+
+photo 72
+Marque (photo 129, 130, 131)
+
+Accessoires (porte serviette ):
+
+peinture 
+fils électriques
+bois massif
+Tache (photo 73, 74, 75)
+
+impact (photo 218, 219, 220)
+
+Marque , stylo
+
+ à bascule
+Neufs (photo 31, 32, 33)
+
+Charnière défectueuse(s), ne ferme plus
+
+Tache (photo 10, 11, 12)
+
+Tache (photo 120, 121, 122)
+
+Neuve (photo 32, 33)
+
+photo 31
+Accessoire inclus : (photo 20, 21), cumulus
+
+Marque (photo 132, 133, 134)
+
+Accessoire inclus : , une clé et un bloc porte
+
+Surface (Boutin)
+
+Tache (photo 23, 24)
+
+ paterre extérieur
+tube néon
+bac :
+
+Neuve (photo 92, 93, 94)
+
+Griffure (photo 31, 32)
+
+Bouteille gaz neuve
+
+italienne
+ inox
+Joint à refaire (photo 63, 64)
+
+marque Rectiligne
+Elément endommagé(s) (photo 167, 168)
+
+Difficile à ouvrir
+
+ quadruple
+Tache (photo 43, 44, 45)
+
+Très usagé (photo 65, 66)
+
+Trou (photo 11, 12, 13)
+
+Tache (photo 38, 39)
+
+ murale
+Trou (photo 6, 7, 8)
+
+Trou (photo 61, 62), rebouchés
+
+Marque (photo 320, 321, 322)
+
+classique
+Accessoire inclus : un interrupteur mural
+
+Marque (photo 38, 39)
+
+Tache (photo 30, 31)
+
+avec spots
+Très usagée (photo 57, 58)
+
+impact (photo 39, 40)
+
+Tache (photo 62, 63, 64)
+
+1x patère (couleur : blanc)  
+
+Trou (photo 4, 5), devant frigo
+
+ credence stratifié
+Fissure (photo 47, 48, 49)
+
+ bandes verticales
+Griffure (photo 28, 29), marques sur rebord fenêtre intérieur
+
+neuves, avec télécommande pour VR électrique
+
+Marque (photo 192, 193, 194)
+
+Elément endommagé(s) 
+
+Accessoire inclus : 3 crochets
+
+Sonnette  
+
+Griffure (photo 15, 16, 17)
+
+Tache , au fond de la baignoire
+
+Griffure (photo 23, 24, 25)
+
+Tache (photo 14, 15)
+
+Déperdition de chaleur (photo 83, 84), porte qui se ferme mal
+
+Clous (photo 17, 18, 19)
+
+Fissure (photo 183, 184)
+
+à effectuer par les locataires
+
+simples
+Marque (photo 287, 288, 289), porte dressing
+
+Trou (photo 59, 60, 61), rebouchés
+
+Tache (photo 133, 134)
+
+ tissus
+impact (photo 88, 89)
+
+Marque (photo 237, 238, 239)
+
+Marque (photo 81, 82, 83)
+
+Etendage :
+
+Nettoyage incomplet (photo 64, 65, 66)
+
+Trou (photo 50, 51, 52)
+
+ plastique
+Tache (photo 275, 276)
+
+Serrure endommagée, un peu dur pour ouvrir et fermer
+
+Frotte porte cumulus
+
+Marque (photo 17, 18, 19)
+
+Trou (photo 45, 46, 47), trous et crochets
+
+observations générales
+
+Trou (photo 7, 8)
+
+Marque (photo 128, 129, 130)
+
+Marque (photo 73, 74), peinture écaillée sur fenêtre au dessus radiateur
+
+Trou (photo 184, 185, 186)
+
+papier
+Nettoyage incomplet , le plastique est gris de saleté
+
+Peinture se decolle 
+
+Marque (photo 67, 68, 69)
+
+ stratifie
+Avec clé (photo 121, 122), ferme correctement
+
+Trou (photo 64, 65), rebouchés
+
+faience
+Serrure endommagée 
+
+Marque (photo 189, 190, 191)
+
+Fermeture difficile
+
+Poêle (foyer fermé, à bois):
+
+Boîte aux lettres :
+
+Marque (photo 25, 26)
+
+crépi +bois
+Marque (photo 207, 208, 209)
+
+évier bar :
+
+ Candy
+panneau elec :
+
+tactiles
+ paille
+Programmateur chauffage :
+
+ fils électriques
+stratifiés
+coulissantes
+vénitiens
+Trou (photo 15, 16)
+
+2x Accessoires (bureaux + chaises)  
+
+Marque (photo 22, 23, 24)
+
+S'enlève 
+
+impact (photo 146, 147, 148)
+
+Tache (photo 88, 89)
+
+lamelles alu
+Marque (photo 102, 103)
+
+ alu
+papier peint
+impact (photo 16, 17)
+
+Fissure (photo 98, 99)
+
+ 1 porte
+3 portes
+impact (photo 31, 32)
+
+Se décolle (photo 119, 120)
+
+Trou , trou rebouché
+
+Marque (photo 77, 78)
+
+briques apparentes
+Tache (photo 147, 148, 149)
+
+Trou , rebouché
+
+jonc de mer
+Tache (photo 62, 63)
+
+Marque (photo 47, 48)
+
+Accessoire inclus : , tringles
+
+sèche serviette
+Néon 
+
+impact (photo 33, 34)
+
+joint
+Autocollants (photo 30, 31)
+
+Filtre à changer
+
+Tache (photo 55, 56, 57)
+
+Trou , extérieur porte
+
+Moisissure (photo 374, 375)
+
+Griffure (photo 24, 25, 26), griffures au niveau de l emplacement du frigo
+
+Tache (photo 7, 8, 9)
+
+cumulus  
+
+Neuve (photo 46, 47)
+
+Tache , quelques taches entre porte d’entrée et dressing
+
+Étoiles 
+
+miroir sur pied  
+
+2x Installation technique (Cumulus)  
+
+avec filtre
+Trou (photo 41, 42, 43)
+
+Elément endommagé(s), manque plinthe vers la porte
+
+detecteur fumée :
+
+Sonnette (filaire)  
+
+résine 
+Tache (photo 66, 67, 68)
+
+ bois + crépi
+ crochets 4
+Accessoire inclus : , 2 portes serviettes et 1 crochet
+
+neuves , volets bois manuels
+
+impact (photo 143, 144)
+
+impact (photo 48, 49)
+
+Trou (photo 46, 47)
+
+ pierres apparentes
+Accessoire inclus : rideaux
+
+faux plafond
+simple
+Marque , dessins
+
+droite
+impact (photo 39, 40, 41)
+
+Marque (photo 96, 97, 98)
+
+Tache (photo 123, 124, 125)
+
+neuves (photo 24, 25, 26)
+
+Bloc porte manquant 
+
+ Liebherr
+Griffure (photo 175, 176, 177)
+
+Trou (photo 14, 15, 16), vis au mur
+
+Fissure (photo 81, 82)
+
+ 171
+Frottements sol
+
+volets roulants
+micro-ondes
+Trou (photo 48, 49)
+
+pierre naturelle
+Tache (photo 63, 64)
+
+Griffure (photo 48, 49)
+
+naturelle
+Joint à refaire (photo 76, 77, 78)
+
+Tache (photo 177, 178)
+
+Clous (photo 19, 20)
+
+halle STOCKAGE
+
+Peinture refaite 
+
+Tache , loquet ne ferme pas
+
+Automatisation (à crémaillère):
+
+Peinture à refaire, sur les parties basse taches noires
+
+Nettoyage incomplet (photo 15, 16, 17)
+
+3271
+
+Tache (photo 43, 44)
+
+lino
+Joints à refaire (photo 21, 22, 23)
+
+Fissure (photo 27, 28, 29)
+
+porte extérieure :
+
+Table amovible
+
+Brandt
+impact (photo 365, 366)
+
+Trou (photo 66, 67, 68)
+
+impact (photo 28, 29)
+
+détecteur de fumée  
+
+Très usagé (photo 11, 12)
+
+Trou , trous rebouchés
+
+tableau électrique :
+
+ klarstein
+Peinture neuve (photo 60, 61)
+
+Poignée endommagée(s) (photo 110, 111)
+
+Gondolé
+
+ applique
+Sale 
+
+Trou (photo 14, 15, 16)
+
+Bar (bar):
+
+tablette grey
+Marque (photo 71, 72, 73)
+
+Tache (photo 31, 32, 33)
+
+Se décolle (photo 61, 62, 63)
+
+ simples
+Barrière 
+
+ grès
+Main courante (bois):
+
+Brûlure 
+
+Accessoire inclus : bloc porte
+
+impact , bouge
+
+Manque accessoire 
+
+Marque (photo 151, 152, 153)
+
+Electricite : 10 
+
+impact (photo 34, 35, 36)
+
+Fissure (photo 77, 78, 79)
+
+Jaunis
+
+Tache (photo 56, 57)
+
+Elément endommagé(s), 2ème tiroir difficile à fermer
+
+Tache (photo 8, 9)
+
+Marque (photo 98, 99, 100)
+
+Trou (photo 122, 123, 124)
+
+Etageres (murales)  
+
+Tache (photo 18, 19)
+
+Elément endommagé(s), serrure cassée
+
+volets bois  
+
+Non testé
+
+lambri PVC
+(vitrocéramique):
+
+ Faure
+Tache , joints tâches
+
+Tablette ne tient pas 
+
+Trou (photo 123, 124)
+
+Accessoire inclus, notice
+
+ en hauteur
+Eau chaude : 10 
+
+impact (photo 36, 37, 38)
+
+Liebherr
+Elément endommagé(s) (photo 33, 34)
+
+Accessoire inclus : 2 clefs
+
+Siemens
+meuble vasque 
+Elément endommagé(s) , décrochée
+
+Accessoire inclus : , clé
+
+Trou (photo 148, 149)
+
+Marque (photo 61, 62, 63)
+
+Marque (photo 67, 68)
+
+Tache (photo 74, 75)
+
+impact (photo 11, 12, 13)
+
+à eau chaude
+plaque induction :
+
+neuves
+
+Crochet (photo 46, 47)
+
+Trou (photo 51, 52, 53)
+
+Fissure (photo 186, 187)
+
+Trou (photo 186, 187)
+
+beko
+photo 3
+impact (photo 47, 48, 49)
+
+Tache (photo 15, 16)
+
+Marque (photo 69, 70, 71)
+
+Fissure (photo 14, 15)
+
+Marque (photo 88, 89)
+
+Joint à refaire (photo 173, 174)
+
+Tache (photo 160, 161, 162)
+
+Clous (photo 73, 74)
+
+Marque (photo 31, 32)
+
+Elément endommagé(s) , ne remonte pas jusqu'en haut
+
+Neuve (photo 13, 14)
+
+Fissure (photo 65, 66)
+
+1x thermostat (couleur : blanc)
+
+Trou (photo 28, 29, 30)
+
+Trou (photo 141, 142)
+
+Ne fonctionne plus 
+
+Neuves (photo 87, 88)
+
+Griffure (photo 134, 135)
+
+cabine verre
+Tache (photo 80, 81)
+
+spots
+Griffure (photo 39, 40, 41), griffures au niveau de l emplacement du frigo
+
+Marque (photo 171, 172)
+
+Accessoire inclus : porte manteau
+
+Neuf (photo 29, 30)
+
+photo 66
+Neuf , avec la notice
+
+Marque (photo 92, 93, 94)
+
+Accessoire inclus : chaîne alarme non testée
+
+Fissure , tout le long et de l’autre côté
+
+Tache (photo 110, 111)
+
+Ferme(nt) mal 
+
+Marque (photo 173, 174, 175)
+
+Neuf , allumer non testé
+
+Très usagés (photo 26, 27)
+
+Manque accessoire, poignée manquante voir photo lavabo
+
+Elément endommagé(s) (photo 222, 223)
+
+Tache (photo 56, 57, 58)
+
+Tache 
+
+Nettoyage incomplet (photo 35, 36, 37)
+
+impact (photo 56, 57)
+
+ murales
+Neuve (photo 94, 95)
+
+PVC simple
+Marque (photo 169, 170, 171)
+
+neuves (photo 41, 42)
+
+tables + chaises :
+
+Trou (photo 190, 191, 192)
+
+neuves (photo 67, 68, 69)
+
+Marque
+
+Trou (photo 17, 18, 19)
+
+Accessoire inclus , télécommande
+
+Fissure (photo 46, 47)
+
+Trou (photo 76, 77, 78)
+
+Fissure 
+
+Nettoyage incomplet (photo 34, 35), taches de gras
+
+impact (photo 12, 13)
+
+tapisserie immitation crepi
+Clous 
+
+Trou (photo 72, 73)
+
+Griffure (photo 32, 33)
+
+Tranche côté frigo 
+
+Autre , boîtier sonnette mal fixé
+
+sallanches@cimm-immobilier.fr
+
+Marque (photo 95, 96, 97)
+
+impact (photo 126, 127), encadrement porte
+
+Neuve (photo 29, 30)
+
+ Bosch
+impact , cabossée
+
+Marches (carrelage):
+
+Neuf 
+
+Trou (photo 30, 31, 32)
+
+roblin
+Ampoule défectueuse 
+
+combiné
+1x cumulus :
+
+Fils électriques (photo 50, 51), fils apparents sous l’évier et derrière four
+
+Tache (photo 55, 56)
+
+Tache (photo 161, 162)
+
+Pas testé
+
+Tache (photo 82, 83)
+
+projecteurs
+153 Route du Rosay - Le Parc de la Roseraie - Bât B, 74700 SALLANCHES, Appartement 2 pces, 2ème, CG2010
+
+Griffure
+
+Griffure (photo 56, 57, 58)
+
+ 17
+Griffure (photo 222, 223)
+
+Marque (photo 30, 31, 32)
+
+Nettoyage incomplet (photo 27, 28, 29)
+
+Marque (photo 64, 65)
+
+Tache (photo 35, 36, 37)
+
+Accessoire inclus : (photo 36, 37), clé
+
+Marque (photo 150, 151)
+
+Faure
+ 154
+Manque accessoire , néon
+
+Trou (photo 28, 29)
+
+Tache, nettoyer les taches de crayon sur les murs. delai 27
+
+Marque (photo 6, 7)
+
+coffret électrique :
+
+Avec clé, 1 clef
+
+impact (photo 201, 202)
+
+Accessoires (2 verres + 2 porte-savons):
+
+ non testés
+Très mauvais état (photo 8, 9, 10), une fenêtre cassée, 5 fendues à faire remplacer par le
+
+Clous (photo 17, 18)
+
+Tache (photo 49, 50)
+
+ Roblin
+Marque (photo 9, 10)
+
+Marque (photo 106, 107)
+
+ paroi verre
+Griffure (photo 26, 27, 28)
+
+impact (photo 84, 85)
+
+Tache (photo 79, 80)
+
+dalle béton
+machine à laver (bluesky, couleur : blanc):
+
+0001
+
+ sur pied
+Tache (photo 33, 34)
+
+Marque (photo 111, 112)
+
+Neuves 
+
+2x Installation technique (Cumulus):
+
+bouteilles gaz 3 :
+
+Tache (photo 109, 110)
+
+Brise-jet entartré
+
+Tache (photo 8, 9, 10)
+
+ avec lumières
+0503
+
+encastré
+Jour 
+
+ dalles béton
+Appartient au(x) locataire, laissé par locataire
+
+Tache (photo 21, 22), colle
+
+Trou , devant frigo
+
+Tache (photo 76, 77)
+
+ avec égouttoir
+sèche cheveux :
+
+impact (photo 57, 58)
+
+Marque (photo 90, 91)
+
+ IKEA
+peinture blanche
+Marque (photo 55, 56, 57)
+
+Marque , marques d’usages, testées fonctionnent, avec manuel d’utilisation
+
+Marque (photo 21, 22)
+
+impact (photo 73, 74)
+
+ bois
+avec lumières
+Tringle a rideau (bois):
+
+etageres (bois):
+
+Fissure (photo 63, 64)
+
+en stratifié
+Peinture neuve (photo 30, 31, 32)
+
+photo 174
+Nettoyage incomplet (photo 65, 66)
+
+Neuve 
+
+Fissure (photo 19, 20, 21)
+
+miroir
+Crochet 
+
+Tache (photo 53, 54, 55)
+
+Elément endommagé(s)
+
+neuves , 1 Télécommande volet roulant générale
+
+Tablette radiateur :
+
+Plateau congel , décroché
+
+Neuf (photo 21, 22)
+
+Marque (photo 171, 172, 173)
+
+ 2 portes
+Parterre (photo 81, 82, 83)
+
+bureau (bois):
+
+Griffure (photo 37, 38, 39)
+
+vanne
+Tache (photo 64, 65)
+
+Joint à refaire 
+
+Vitres rayées 
+
+Marque (photo 199, 200, 201)
+
+parts de responsabilité à définir
+
+impact (photo 65, 66)
+
+Est tombé (photo 35, 36), il était accroché avec de la pâte à fixe
+
+Bloc porte
+
+Miroir, bon état
+
+Parterre (photo 73, 74)
+
+ doubles
+Elément endommagé(s) , se décollent
+
+Trou (photo 102, 103)
+
+balayette + porte papier wc
+Joint à refaire (photo 79, 80, 81)
+
+Joint à refaire (photo 77, 78, 79)
+
+Neuf (photo 22, 23)
+
+Tache (photo 47, 48)
+
+Lave-linge (far) Relevé du mobilier : - Le détail de l’inventaire mobilier est relevé dans un document séparé  
+
+ émaillée
+Trou , sur coffre au dessus fenêtre
+
+Griffure (photo 34, 35)
+
+Poignée bouge 
+
+Trou (photo 15, 16, 17), x9 dont 5 rebouchés
+
+Tache (photo 17, 18)
+
+penderie
+Accessoires (porte manteau):
+
+Marque (photo 89, 90)
+
+Contre-marches (bois) 
+
+rideau :
+
+plaques gaz :
+
+Fissure (photo 48, 49)
+
+halogènes
+Charnière défectueuse(s), meuble angle vers lave vaisselle
+
+Marque (photo 179, 180, 181)
+
+aérothermie :
+
+Joint à refaire (photo 104, 105, 106)
+
+Tache (photo 45, 46)
+
+Marque (photo 215, 216, 217)
+
+Clé 
+
+Fissure (photo 104, 105)
+
+2802
+
+Accessoire inclus : , 2vis
+
+Tache (photo 75, 76, 77)
+
+ plâtre
+Neufs (photo 79, 80)
+
+Accessoire inclus : un bloc porte
+
+ mitigeur
+Tache (photo 27, 28)
+
+impact (photo 99, 100)
+
+Tache (photo 49, 50, 51)
+
+Fissure (photo 102, 103)
+
+Tache (photo 145, 146, 147)
+
+Ampoule défectueuse, 2
+
+Marque (photo 194, 195)
+
+Accessoire inclus : (photo 12, 13)
+
+Non testé 
+
+Elément modifié(s)
+
+Rideaux de fer 
+
+Ampoule défectueuse
+
+Tache (photo 78, 79)
+
+Elément endommagé(s), flexible de douche qui fuit
+
+Trou (photo 94, 95)
+
+impact (photo 52, 53, 54)
+
+Support bouge(nt) 
+
+Marque (photo 50, 51, 52)
+
+impact (photo 60, 61, 62)
+
+Tache (photo 16, 17)
+
+Marque (photo 209, 210)
+
+Marque (photo 137, 138)
+
+Trou (photo 177, 178), rebouches
+
+Marque (photo 72, 73)
+
+Clé (photo 39, 40)
+
+Griffure (photo 29, 30)
+
+Elément endommagé(s) (photo 129, 130)
+
+tablette
+Neufs
+
+Marque (photo 220, 221, 222), dressing
+
+Chauffe-eau (électrique, individuel):
+
+Tache (photo 13, 14)
+
+Neuve (photo 20, 21)
+
+Sonnette (couleur : blanc) 
+
+Marque (photo 36, 37)
+
+Zanussi
+0433
+
+Marque (photo 113, 114)
+
+continental edison
+Trou (photo 35, 36, 37)
+
+crépi + bois
+Neuves (photo 8, 9)
+
+Trou (photo 39, 40), rebouchés
+
+neuves (photo 31, 32, 33)
+
+Marque (photo 31, 32, 33)
+
+Neff
+Elément endommagé(s) , se décolle
+
+Serrure endommagée difficulté à fermer la porte d entrée de l Interieur. serrure à remplacer.
+
+Trou (photo 36, 37)
+
+Marque (photo 58, 59)
+
+parquet stratifié
+seche serviette
+Tache (photo 52, 53, 54)
+
+Elément endommagé(s) , une vis à rentrer pour ouvrir
+
+Se décrochent 
+
+Tache (photo 35, 36)
+
+Déchiré (photo 84, 85)
+
+Pas électricité 
+
+miroir  
+
+Tache (photo 83, 84)
+
+impact , dressing
+
+Marque (photo 92, 93)
+
+photo 6
+Poêle (foyer ouvert):
+
+1x plaque vitrocéramique (continental edison, couleur : noir):
+
+ De Dietrich
+papier ingrain
+2x Meuble :
+
+impact (photo 50, 51)
+
+à bascule
+filet :
+
+5 portes
+Marque (photo 181, 182, 183)
+
+porte serviette (couleur : argent)  
+
+centrale
+Vis qui ressortent 
+
+Joints imparfait 
+
+1x combles :
+
+Ferme(nt) mal, en haut du barrillet
+
+Neuves (photo 15, 16, 17)
+
+Neuf (photo 197, 198)
+
+neuve (photo 17, 18)
+
+3x tableaux :
+
+Avec clé, porte descente garage et porte vitrée
+
+Tache (photo 9, 10)
+
+Griffure (photo 178, 179, 180)
+
+Neuve , avec notice
+
+Marque (photo 15, 16)
+
+Ferme(nt) mal, porte battante
+
+neuve 
+
+Tache , brûlé
+
+neuves (photo 16, 17)
+
+Moustiquaire , déchirée sur les coins en bas
+
+ avec douchette
+impact (photo 46, 47)
+
+Tache (photo 9, 10), tâches peinture côté intérieur
+
+Accessoire inclus : une clé qui ferme
+
+faux plafond en dalle
+Marque (photo 34, 35, 36)
+
+Moisissure , joints
+
+impact (photo 44, 45)
+
+granit
+Tache (photo 52, 53)
+
+Chauffe-eau (cumulus, individuel, électrique) 
+
+thermostat :
+
+Tache (photo 49, 50, 51), mal nettoyé
+
+Elément endommagé(s) (photo 110, 111)
+
+Elément endommagé(s) (photo 158, 159)
+
+Joint à refaire (photo 102, 103, 104)
+
+impact (photo 45, 46), fenêtre 2 côté poulailler
+
+Automatisation (à crémaillère) 
+
+Trou , porte entrée cuisine
+
+Tache (photo 19, 20)
+
+Electricité (HP)
+
+Ampoule défectueuse (photo 37, 38, 39)
+
+Neuf (photo 17, 18, 19)
+
+Cache mal fixe 
+
+climatisation réversible
+ thermostatique
+Griffure (photo 27, 28, 29), griffures au niveau de l emplacement du frigo
+
+Griffure (photo 107, 108)
+
+Avec bloc porte
+
+chaudiere (gaz)  
+
+Elément endommagé(s) (photo 193, 194, 195)
+
+Marque (photo 10, 11)
+
+Sonnette :
+
+à voir avec propriétaires
+
+chaîne :
+
+beton
+Marque (photo 104, 105, 106)
+
+émaillé
+Robinet eau chaude , ne coule pas
+
+ persienne
+Tache , porte d entrée frotte
+
+Poêle (à bois):
+
+ LG
+Interrupteur internet 
+
+Impact sur dessus 
+
+Marque (photo 145, 146, 147)
+
+impact (photo 13, 14, 15)
+
+volets
+metal
+Neuves (photo 27, 28)
+
+Griffure (photo 60, 61)
+
+Poêle (foyer fermé):
+
+Marque (photo 53, 54, 55)
+
+Trou (photo 32, 33)
+
+C 4540
+
+1x velux :
+
+Déchiré (photo 122, 123, 124)
+
+1x commande chauffage :
+
+Brûlure
+
+Très usagé (photo 68, 69)
+
+Trou (photo 33, 34, 35)
+
+Robinet, robinet grippé
+
+Neuf (photo 20, 21)
+
+Accessoire inclus, télécommande
+
+Tache (photo 95, 96), à l’intérieur, rails sales
+
+Tache (photo 40, 41)
+
+Nettoyage incomplet
+
+1x chaudiere gaz :
+
+Elément endommagé(s) , plus de bouton lumière
+
+Détecteurs de fumée neufs, à fournir aux locataires
+
+design
+Marque (photo 85, 86, 87)
+
+Fissure (photo 16, 17, 18)
+
+Trou (photo 91, 92)
+
+impact, dans le coin du casserolier du bas
+
+contrôlée
+Neuves , les portes seront livrées avant fin mai
+
+impact (photo 24, 25, 26)
+
+Griffure , poignée
+
+Griffure (photo 23, 24)
+
+Ne fonctionne plus
+
+mélangeur
+selon devis à recevoir
+
+Ampoule défectueuse, pas d’ampoule
+
+bois composite
+LG
+ rideau
+28,02 
+
+brise-vue :
+
+PVC triple
+impact (photo 55, 56)
+
+Manque accessoire , manque 1 ampoule
+
+Tache (photo 105, 106, 107)
+
+Tache (photo 32, 33, 34)
+
+ Electrolux
+Trou (photo 32, 33, 34)
+
+ Whirlpool
+Manque accessoire, 1 seule clef_ 1 porte ne ferme pas
+
+1 balayette
+Griffure (photo 67, 68)
+
+Tache (photo 165, 166, 167)
+
+Griffure (photo 43, 44, 45)
+
+ miroir rond
+Réglage à effectuer, difficile à fermer
+
+avec miroir
+impact (photo 207, 208, 209)
+
+Marque (photo 93, 94)
+
+Griffure, ouverture de porte
+
+Marque (photo 122, 123)
+
+impact (photo 59, 60, 61)
+
+Tache (photo 53, 54)
+
+Sonnette (filaire, couleur : blanc) 
+
+Tache (photo 44, 45, 46)
+
+Jaunis 
+
+1x machine à laver (laden, couleur : blanc):
+
+Elément endommagé(s), pommeau à changer
+
+Griffure (photo 39, 40)
+
+Trou (photo 19, 20, 21)
+
+Marque (photo 53, 54)
+
+À fixer 
+
+Pas de douille (photo 47, 48), fils apparents
+
+plaque numero appartement :
+
+Neuve (photo 24, 25)
+
+Marque (photo 97, 98, 99)
+
+Peinture à refaire (photo 36, 37)
+
+Marque (photo 225, 226, 227)
+
+ céramique
+Elément endommagé(s), prise mezzanine mal fixée mais fonctionne
+
+Fissure (photo 6, 7)
+
+Marque (photo 88, 89, 90)
+
+Trou (photo 61, 62, 63), rebouchés
+
+Main courante (bois)  
+
+impact (photo 15, 16, 17)
+
+Clous 3 derrière le bar, 1 mur côté cuisine, un mur bureau, 3 plus un trou sous escalier, un au
+
+Trou (photo 20, 21)
+
+Poêle :
+
+américain
+Elément modifié(s) , fil électrique
+
+
+
+ 3 portes
+Elément endommagé(s) (photo 74, 75)
+
+Accessoire inclus : , porte manteau
+
+Marque (photo 44, 45)
+
+impact (photo 196, 197)
+
+Trou (photo 77, 78)
+
+Avec clé, pour vitrée, porte descente garage
+
+Marque , plan du meuble blanc
+
+Trou (photo 16, 17, 18)
+
+ spot encastrés
+Fissure (photo 11, 12)
+
+Accessoire inclus : télécommande
+
+impact (photo 32, 33, 34)
+
+Avec clé, accès chauffe-eau
+
+Griffure (photo 17, 18, 19), griffures au niveau de l emplacement du frigo
+
+Tache (photo 30, 31), avec clé
+
+induction
+ persiennes
+3x Accessoires (1 porte-savons, porte serviette, couleur : blanc)  
+
+arborisation (gazon + arbustes, clôturée)  
+
+neuves (photo 63, 64)
+
+ lamelles alu
+Marque (photo 135, 136, 137)
+
+consol aerothermique
+Appareils électriques testés
+
+Marque (photo 109, 110), ne ferme pas
+
+Tache , jaunes
+
+Peinture neuve
+
+Marque , sous lavabo
+
+Tache (photo 46, 47, 48)
+
+visiophone :
+
+Neuve (photo 74, 75)
+
+Accessoires :
+
+Neuf (photo 27, 28)
+
+stratifié
+1x Pharmacie 
+
+Tache (photo 107, 108)
+
+Neuves (photo 56, 57, 58)
+
+Tache (photo 39, 40, 41)
+
+Tache (photo 69, 70, 71)
+
+un escabeau  
+
+ 170
+Neufs (photo 65, 66)
+
+Peinture neuve, traces de peinture sur la vitre
+
+Marque, marque ronde dessus
+
+Trace d'humidité , humidité dans la fenêtre à l’intérieur du double vitrage
+
+Griffure (photo 37, 38)
+
+C 8182
+
+technique
+
+Clou (photo 49, 50)
+
+Trace de calcaire (photo 143, 144)
+
+Marque (photo 263, 264, 265), dressing
+
+Miroir :
+
+Moisissure (photo 91, 92, 93)
+
+Griffure (photo 213, 214)
+
+Clous (photo 46, 47)
+
+Marque (photo 177, 178, 179)
+
+impact (photo 6, 7)
+
+Éclairage défectueux 
+
+ mélangeur
+Neuf (photo 13, 14)
+
+Parquet 
+
+Automatisation (volet roulant)  
+
+Marque (photo 28, 29)
+
+Tache (photo 146, 147)
+
+impact (photo 211, 212, 213)
+
+Poignée cassée 
+
+impact (photo 7, 8)
+
+Trou (photo 53, 54)
+
+Trous (photo 67, 68, 69)
+
+Trou (photo 49, 50, 51)
+
+Tache , joins tachés
+
+impact (photo 13, 14)
+
+impact (photo 51, 52)
+
+Marque (photo 20, 21, 22)
+
+Tache (photo 97, 98, 99)
+
+Rayures 
+
+Marque (photo 29, 30, 31)
+
+DAF 
+
+Marque (photo 59, 60, 61)
+
+Décorative 
+
+3x Accessoires (paterre, porte serviette, miroir, couleur : argent) 
+
+Trou (photo 45, 46)
+
+Accessoire inclus : avec 1 clés et 2 lampes
+
+Sonnette 
+
+sectionnelles
+Avec parterre
+
+neuves , vR extérieur pour le velux avec une télécommande
+
+manuels
+Accessoire inclus : 27 cintres + 2 corbeilles suspendue
+
+ lino
+ avec miroir
+ avec spots
+Griffure (photo 62, 63, 64)
+
+chaudiere gaz (couleur : blanc)
+
+Ampoule défectueuse, une au plafond
+
+Déchirure 
+
+vitrocéramique
+Marque (photo 56, 57, 58)
+
+Elément endommagé(s), store de droite se bloque en descendant à mi hauteur.
+
+Tache , sur le montant extérieur
+
+foyer fermé
+Marque (photo 70, 71)
+
+photo 169
+dalles 
+Neufs (photo 80, 81, 82)
+
+impact (photo 167, 168)
+
+jeken
+Tache (photo 69, 70)
+
+Trou (photo 26, 27)
+
+aucun
+Fissure (photo 108, 109)
+
+Marque (photo 35, 36, 37)
+
+Tache (photo 96, 97)
+
+cabine synthétique
+Tache (photo 37, 38)
+
+poubelle  
+
+avec douchette
+Detecteur de fumée :
+
+Miroirs 
+
+neuves (photo 27, 28, 29)
+
+Tache (photo 50, 51, 52)
+
+Trou (photo 33, 34)
+
+Accessoire inclus : , verrou
+
+balcon :
+
+Neufs (photo 47, 48, 49)
+
+Marque (photo 197, 198, 199)
+
+Fissure (photo 61, 62)
+
+Tableau electrique :
+
+Tache (photo 27, 28, 29)
+
+Marque (photo 63, 64, 65)
+
+Nettoyage incomplet (photo 66, 67)
+
+ plissés
+far
+Avec clé (photo 75, 76, 77), une tringle en bois
+
+bois 
+Accessoires (1 porte-savons):
+
+Accessoire inclus : , bouchon
+
+variateurs
+neuves (photo 47, 48)
+
+Marque (photo 172, 173, 174)
+
+pinture
+impact (photo 181, 182)
+
+ aluminium
+Griffure (photo 22, 23, 24), griffures au niveau de l emplacement du frigo
+
+Poignée difficile
+
+Tache (photo 84, 85)
+
+Très usagée, 1 velux à changer
+
+Marque (photo 84, 85)
+
+Marque (photo 39, 40, 41)
+
+mezzanine :
+
+ bluesky
+barbecue :
+
+impact , un peu partout
+
+ condamnée
+ tablette
+neuves , vR extérieur pour le velux
+
+Electricite : no 10 
+
+Accessoire inclus : , miroir
+
+1x Cheminée 
+
+Neuve (photo 22, 23)
+
+pavés
+Réglage à effectuer , frotte sur le sol
+
+Griffure (photo 153, 154)
+
+audio
+Se décolle 
+
+Marque (photo 396, 397)
+
+Elément endommagé(s) (photo 8, 9, 10)
+
+neuve (photo 39, 40)
+
+Store-toile (manuel):
+
+Tache , sur les joints
+
+Tache (photo 113, 114)
+
+Marque (photo 70, 71, 72)
+
+ Miele
+Neufs 
+
+C 7698
+
+Trou (photo 82, 83)
+
+Accessoire inclus : 1clef
+
+Trou (photo 190, 191)
+
+Très usagée (photo 28, 29)
+
+tissus
+ deroule papier wc
+Moisissure 
+
+524 M3 
+
+1x grenier :
+
+moquette
+Marque (photo 18, 19, 20)
+
+Neuf (photo 20, 21), avec notice
+
+Très mauvais état (photo 32, 33)
+
+Rideaux marrons
+
+neuves (photo 56, 57)
+
+Fermeture difficile , en appuyant en bas
+
+ cabine synthétique
+Très usagée (photo 127, 128, 129)
+
+Marque (photo 55, 56)
+
+Marque (photo 163, 164, 165)
+
+Tache (photo 24, 25, 26)
+
+Tringles rideaux
+
+impact (photo 222, 223, 224)
+
+photo 74
+Peinture à refaire (photo 9, 10)
+
+Marque (photo 45, 46, 47)
+
+0089
+
+0234
+
+Neuves (photo 171, 172)
+
+Accessoire inclus : , un interrupteur
+
+table :
+
+Ampoule défectueuse, 1 ampoule défectueuse au sommet escalier
+
+Tache (photo 91, 92)
+
+Trou (photo 21, 22, 23)
+
+Tache (photo 127, 128)
+
+lampadaires
+impact (photo 215, 216, 217)
+
+ stratifier
+Accessoire inclus : toile occultante
+
+Accessoire inclus : 2 télécommandes
+
+Marches (bois) 
+
+Whirlpool
+Neuve
+
+Tache (photo 34, 35)
+
+neuve (photo 138, 139)
+
+Ne fonctionne plus, lumière
+
+Trou (photo 16, 17)
+
+Brut
+
+velux :
+
+Tache (photo 37, 38), avec clé
+
+Manipulation , coincé au début
+
+Tapisserie decollee (photo 45, 46)
+
+Marque (photo 90, 91, 92)
+
+Griffure (photo 19, 20, 21)
+
+Poignée endommagée(s) (photo 112, 113)
+
+Avec clé, ne ferme pas
+
+Rambarde acier+cable (Autre):
+
+Tache (photo 12, 13, 14)
+
+mitigeur
+Elément endommagé(s) (photo 155, 156, 157)
+
+motorisés
+ 2 bloque porte
+étagère :
+
+Accessoire inclus : miroir
+
+1x branchement machine à laver :
+
+arborisation (gazon + arbustes) 
+
+halle
+
+impact (photo 135, 136)
+
+Fissure (photo 14, 15, 16)
+
+Marque (photo 18, 19)
+
+impact (photo 57, 58, 59)
+
+Trou (photo 40, 41, 42)
+
+Trou (photo 7, 8), a gauche baie vitrée
+
+volet
+Ne fonctionne plus, néon changé mais faux contact (ne s’allume pas toujours)
+
+Trou (photo 95, 96, 97)
+
+Trou 
+
+Peinture à refaire (photo 19, 20)
+
+ type velux
+Peinture neuve, carrelage bon état
+
+Tache (photo 124, 125)
+
+doubles
+Elément endommagé(s) , tuiles
+
+ carrelage + peinture
+Griffure (photo 28, 29)
+
+triples
+ signature
+Fissure (photo 173, 174)
+
+Trace de calcaire, sur le plafonnier de la douche
+
+Coule peu
+
+Trou , côté extérieur
+
+sucre
+Chatière
+
+Peinture à refaire 
+
+Marque (photo 26, 27)
+
+Elément défectueux , un interrupteur de la montée d’escalier
+
+Trou (photo 10, 11, 12), vis au mur
+
+Trou (photo 140, 141)
+
+Trou (photo 160, 161, 162)
+
+Trou (photo 5, 6)
+
+Accessoire inclus : déroulé papier sac + crochet
+
+Serrure endommagée , difficulté à fermer la porte d entrée de l Interieur
+
+porte serviettes
+Ampoule défectueuse (photo 30, 31)
+
+volets bois :
+
+Tache (photo 88, 89, 90)
+
+Tache (photo 76, 77, 78)
+
+impact (photo 40, 41, 42)
+
+neuve (photo 14, 15, 16)
+
+Clous (photo 163, 164, 165)
+
+Bien entretenu(e) (photo 71, 72, 73)
+
+ contrôlée
+Tache (photo 115, 116)
+
+arborisation (gazon + arbustes):
+
+audio + vidéo
+Marque 
+
+Griffure (photo 52, 53), intérieur
+
+Tache (photo 72, 73)
+
+Accessoire inclus : tringle
+
+Avec clé, qui ne ferme pas
+
+Fissure (photo 43, 44)
+
+Fissure (photo 161, 162)
+
+Fermeture difficile , l’été en grosse chaleur difficulté à fermer les baies à clé. Blocage
+
+Nettoyage incomplet (photo 32, 33)
+
+Accessoire inclus : rideau occultants pour veux
+
+Tache (photo 85, 86)
+
+Tache (photo 94, 95)
+
+miroir 
+
+Neuves (photo 63, 64, 65)
+
+Trou (photo 9, 10)
+
+Accessoire inclus : notice
+
+Papier peint décollé 
+
+neuves (photo 28, 29)
+
+Marque (photo 61, 62)
+
+ manuels
+Tache (photo 87, 88)
+
+
